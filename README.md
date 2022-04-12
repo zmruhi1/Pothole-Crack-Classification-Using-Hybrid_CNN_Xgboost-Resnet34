@@ -27,3 +27,5 @@ was performed to determine the one that outperforms the rest.
 ResNet-34 emerged as a clear winner, with an accuracy of 87.8 %
 on the test data. Here, we’ll do an in-depth study of the efficacy
 of these models on our problem statement.
+
+Full thesis report: http://dspace.bracu.ac.bd/xmlui/handle/10361/14359
