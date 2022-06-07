@@ -1,3 +1,6 @@
+# About 
+This repository contains the work done during my bachelor's thesis. 
+
 # Abstract
 
 Roads in Bangladesh provide infrastructural facilities
